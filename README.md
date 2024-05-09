@@ -15,6 +15,8 @@
 
 Contributor of [ta4j/ta4j](https://github.com/ta4j/ta4j) and [RussianInvestments/invest-api-java-sdk](https://github.com/RussianInvestments/invest-api-java-sdk) (ex [Tinkoff/invest-api-java-sdk](https://github.com/Tinkoff/invest-api-java-sdk)).
 
+Creator of [Rapid Report](https://rapid-report.org).
+
 
 
 <!--
