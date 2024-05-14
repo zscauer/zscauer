@@ -13,7 +13,7 @@
 ![Grafana](https://img.shields.io/static/v1?logo=rabbitmq&label=&message=Rabbit%20MQ&color=grey&style=flat)
 
 
-Contributor of [ta4j/ta4j](https://github.com/ta4j/ta4j) and [RussianInvestments/invest-api-java-sdk](https://github.com/RussianInvestments/invest-api-java-sdk) (ex [Tinkoff/invest-api-java-sdk](https://github.com/Tinkoff/invest-api-java-sdk)).
+Contributor of [ta4j/ta4j](https://github.com/ta4j/ta4j) and [RussianInvestments/invest-api-java-sdk](https://github.com/RussianInvestments/invest-api-java-sdk) ([Tinkoff/invest-api-java-sdk](https://github.com/Tinkoff/invest-api-java-sdk) before).
 
 Creator of [Rapid Report](https://rapid-report.org).
 
