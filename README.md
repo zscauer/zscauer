@@ -5,11 +5,11 @@
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=blue&style=flat)
 ![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=darkblue&style=flat)
 ![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=lightblue&style=flat)
-![Redis](https://img.shields.io/static/v1?logo=redis&label=&message=Redis&color=white&style=flat)
+![Redis](https://img.shields.io/static/v1?logo=redis&label=&message=Redis&color=darkyellow&style=flat)
 ![Rabbit](https://img.shields.io/static/v1?logo=rabbitmq&label=&message=Rabbit%20MQ&color=grey&style=flat)
 ![HTMX](https://img.shields.io/static/v1?logo=htmx&label=&message=HTMX&color=orange&style=flat)
 ![Tailwind-CSS](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=Tailwind%20CSS&color=grey&style=flat)
-![Grafana](https://img.shields.io/static/v1?logo=grafana&label=&message=Grafana&color=darkyellow&style=flat)
+![Grafana](https://img.shields.io/static/v1?logo=grafana&label=&message=Grafana&color=white&style=flat)
 ![Postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=darkred&style=flat)
 
 
