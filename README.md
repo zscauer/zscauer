@@ -17,6 +17,6 @@
 
 Contributor of [ta4j/ta4j](https://github.com/ta4j/ta4j) and [RussianInvestments/invest-api-java-sdk](https://github.com/RussianInvestments/invest-api-java-sdk) ([Tinkoff/invest-api-java-sdk](https://github.com/Tinkoff/invest-api-java-sdk) before).
 
-Creator of [Rapid Report](https://rapid-report.org) and [Betz to Friendz](http://betz-to-friendz.su).
+Creator of [Rapid Report](https://rapid-report.org).
 
 Check out my public project [Glossy](https://github.com/zscauer/glossy).
